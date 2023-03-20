@@ -1,0 +1,60 @@
+body{
+    
+    background-image: url("/img/física2.jpg");
+
+
+}
+h1 {
+    color: aliceblue; 
+    margin: 30px 0px 20px 80px;
+
+}
+p{
+    color: aliceblue;  
+    text-align: justify;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 60px;
+    margin-right: 700px;
+}
+div img{
+    height: 400px; 
+    width: 500px; 
+}
+.imagem{
+    margin: 0px 0px 0px 200px;
+}
+.foto{
+    margin: 0px 0px 0px 200px;
+}
+.foto img{
+    height: 250px;
+    width: 450px;
+}
+.primeiro{
+    list-style-type: none;
+    margin: -900px 0px 0px 1500px;
+}
+.segundo{
+    list-style-type: none;
+    margin: -670px 0px 0px 1500px;
+}
+.terceiro{
+    list-style-type: none;
+    margin: -820px 0px 0px 1500px;
+}
+.quarto{
+    list-style-type: none;
+    margin: -925px 0px 0px 1500px;
+}
+.quinto{
+    list-style-type: none;
+    margin: -675px 0px 0px 1500px;
+}
+button{
+    width: 300px;
+    height: 40px;
+    margin: 10px 0px 10px 0px;
+    border: 3px solid black; 
+    border-radius: 10px;
+}
